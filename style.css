@@ -1,0 +1,16 @@
+body{
+    background-image: url(./vsthemes-org.jpg);
+    background-size:cover ;
+    }
+    .a{
+        display:flex;
+        justify-content: space-evenly;
+    
+    }
+    #large:hover {
+        opacity:0.5;
+    
+    }
+    a:hover{
+        color:deeppink;
+    }
